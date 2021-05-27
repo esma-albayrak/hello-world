@@ -1,2 +1,4 @@
 # hello-world
-başka bir depo
+Selam !
+
+Burda daha yeniyim. 
